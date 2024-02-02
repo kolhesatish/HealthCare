@@ -29,7 +29,7 @@ img{
 /* header */
 header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/banner-bg.jpg) center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://img.freepik.com/free-photo/medical-banner-with-doctor-working-laptop_23-2149611211.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706745600&semt=sph) center/cover no-repeat fixed;
     display: flex;
     flex-direction: column;
     justify-content: stretch;
